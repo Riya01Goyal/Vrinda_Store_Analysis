@@ -4,6 +4,11 @@ I. Project Overview
 1. Vrinda Store aims to enhance its business strategy by leveraging data analysis to create an annual sales report for the year 2022.
 2. The objective is to provide valuable insights that will enable Vrinda Store to better understand its customers, identify growth opportunities, and formulate an effective plan to boost sales in 2023.
 
+
+
+![Screenshot (46)](https://github.com/Riya01Goyal/Vrinda_Store_Analysis/assets/131674407/aa3ff68a-d504-495e-a829-6dfb0323a3fc)
+
+
 II. Project Scope
 1.  Data Cleaning:
 
