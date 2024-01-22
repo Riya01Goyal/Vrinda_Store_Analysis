@@ -5,7 +5,7 @@ I. Project Overview
 2. The objective is to provide valuable insights that will enable Vrinda Store to better understand its customers, identify growth opportunities, and formulate an effective plan to boost sales in 2023.
 
 
-
+https://github.com/riyagoyal26/Vrinda_Store_Analysis/assets/131674407/bd227248-11d8-412a-b262-1a5f814d350c
 
 
 
