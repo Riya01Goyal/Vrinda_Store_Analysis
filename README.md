@@ -6,7 +6,7 @@ I. Project Overview
 
 
 
-![Screenshot (46)](https://github.com/Riya01Goyal/Vrinda_Store_Analysis/assets/131674407/aa3ff68a-d504-495e-a829-6dfb0323a3fc)
+
 
 
 II. Project Scope
